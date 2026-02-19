@@ -1,5 +1,6 @@
 # 📊 Customer Churn Analysis – Power BI
-
+## 📊 Dashboard Preview
+![Churn Dashboard Overview](dashboard_screenshots/dashboard overview Image.png)
 ## 📌 Project Overview  
 Customer churn directly impacts revenue stability and business growth.  
 In this case study, I analysed a telecom customer dataset (Databel) to identify churn drivers, quantify revenue impact, and provide actionable retention strategies.
